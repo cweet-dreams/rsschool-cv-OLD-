@@ -1,1 +1,1 @@
-https://cweet-dreams.github.io/rsschool-cv/cv
+https://cweet-dreams.github.io/rsschool-cv/cv.md
