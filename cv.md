@@ -1,7 +1,7 @@
 # SVETLANA APOLOKHOVA
 ___
-FRONT END DEVELOPER JUNIOR/ TRAINEE
-___
+FRONT END DEVELOPER JUNIOR/ TRAINEE <br>
+
 __Mobile:__ +380682310089<br>
 __E-mail:__ svetlana.apolokhova@gmail.com <br>
 __Skype:__ svetlana.apolokhova<br>
